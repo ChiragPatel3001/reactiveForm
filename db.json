@@ -1,0 +1,29 @@
+
+{
+  "department": [
+    {
+      "id": 1,
+      "name": "FrontEnd"
+    },
+    {
+      "id": 2,
+      "name": ".Net"
+    },
+    {
+      "id": 3,
+      "name": "UI/UX"
+    },
+    {
+      "id": 4,
+      "name": "QA"
+    },
+    {
+      "id": 5,
+      "name": "Database"
+    },
+    {
+      "id": 6,
+      "name": "Android"
+    }
+  ]
+}
